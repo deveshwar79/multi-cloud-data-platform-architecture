@@ -31,7 +31,7 @@ This project demonstrates an enterprise-scale multi-cloud data platform designed
 - DevOps: Terraform, CI/CD, Kubernetes
 
 ## Architecture Diagram
-(To be added)
+![Architecture](architecture.png)
 
 ## Outcome
 - Supports high-volume batch and real-time data processing
